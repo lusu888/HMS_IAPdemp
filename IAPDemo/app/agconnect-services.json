@@ -1,0 +1,11 @@
+{
+	"client":{
+		"cp_id":"890852200000000072",
+		"product_id":"9105385871708141419",
+		"client_id":"205642056498937856",
+		"client_secret":"F356A303AC6CB21C9FE216A7365C5E71E1296554DCDD7145C7C58FF509578BD8",
+		"app_id":"101205721",
+		"package_name":"com.wz.android.iapdemo.huawei"
+	},
+	"configuration_version":"1.0"
+}
